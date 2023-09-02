@@ -5,7 +5,7 @@
 ## _I am Full Stack Web Developer_ -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%F0%9F%91%8B;%F0%9F%98%8E+My+Name+is+Nitin;I+am+full+stack+Web+Developer" alt="Typing SVG" /></a><hr>
-Hi, My name is Nitin and I am a Full Stack Web Developer. I am Continuously learning and improving web Developer Skills.
+Hi, My name is Nitin Kashyap and I am a Full Stack Web Developer. I am Continuously learning and improving web Developer Skills.
 
 ### **Skills and Experience :)**
 
