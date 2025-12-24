@@ -73,20 +73,3 @@ I continuously learn and apply modern web standards to deliver clean, maintainab
 * 💬 Ask me about **WordPress, Plugins, Themes & Performance**
 * 😄 Pronouns: **He / Him**
 * ⚡ Fun fact: **I enjoy music & poetry while coding**
-
----
-
-<h3 align="center">🚀 Passionate WordPress Full Stack Developer from India</h3>
-
-<p align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkashyap4124&theme=react&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nitinkashyap4124&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkashyap4124&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitinkashyap4124&theme=onedark&row=2&column=3" />
-</p>
