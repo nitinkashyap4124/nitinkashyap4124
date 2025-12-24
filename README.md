@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FFFFFF&width=600&lines=Hi+there+%F0%9F%91%8B;%F0%9F%98%8E+My+Name+is+Nitin+Kashyap;WordPress+Full+Stack+Web+Developer;6%2B+Years+Experience+%7C+Themes+%26+Plugins" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FFFFFF&width=750&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Nitin+Kashyap;WordPress+Full+Stack+Developer;6%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+</a>
 
 ---
 
