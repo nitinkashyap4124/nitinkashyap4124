@@ -49,7 +49,8 @@ I continuously learn and apply modern web standards to deliver clean, maintainab
 
 ### 🧩 WordPress Stack
 
-<a href="https://wordpress.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/></a> <a href="https://woocommerce.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" width="40"/></a> <a href="https://elementor.com"><img src="https://www.vectorlogo.zone/logos/elementor/elementor-icon.svg" width="40"/></a>
+<a href="https://wordpress.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/></a> <a href="https://woocommerce.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" width="40"/></a> <a href="https://elementor.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/></a>
 
 ### 🔧 Tools & DevOps
 
@@ -75,7 +76,7 @@ I continuously learn and apply modern web standards to deliver clean, maintainab
 
 <!-- Asana -->
 <a href="https://asana.com" title="Asana Project Management">
-  <img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/asana.svg" width="40" style="filter: invert(1);"/>
 </a>
 
 <!-- Jira -->
