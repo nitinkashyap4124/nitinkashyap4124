@@ -53,7 +53,41 @@ I continuously learn and apply modern web standards to deliver clean, maintainab
 
 ### 🔧 Tools & DevOps
 
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a> <a href="https://linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a> <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a> <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a> <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
+<!-- Git -->
+<a href="https://git-scm.com/" title="Git Version Control">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</a>
+
+<!-- Linux -->
+<a href="https://www.linux.org/" title="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</a>
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</a>
+
+<!-- Postman -->
+<a href="https://postman.com" title="Postman API Testing">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</a>
+
+<!-- Asana -->
+<a href="https://asana.com" title="Asana Project Management">
+  <img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" width="40"/>
+</a>
+
+<!-- Jira -->
+<a href="https://www.atlassian.com/software/jira" title="Jira Issue Tracking">
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40"/>
+</a>
+
+<!-- Cursor AI -->
+<a href="https://cursor.sh" title="Cursor AI Code Editor">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="40"/>
+</a>
+
 
 ---
 
